@@ -151,24 +151,24 @@ bingoList[18] = [
   { name: "Kill 2 Behemoths", types: ["kill"] },
   { name: "Eat Big Mack", types: ["meme"] },
   { name: "Kill Wire with a Laser Musket", types: ["kill"] },
-  { name: "Collect at least 5 unique weapons", types: ["weapon"] },
+  { name: "Collect at least 3 unique weapons", types: ["weapon"] },
   { name: "Return the Pristine Deathclaw egg", types: ["quest"] }
 ];
 bingoList[19] = [
   { name: "Obtain the Piezonucleic power armor", types: ["items"] },
   { name: "Set foot onto the Prydwen", types: ["location"] },
-  { name: "Collect 10 bobbleheads", types: ["snow"] },
   { name: "Collect a Shishkebab", types: ["weapon"] }
 ];
 bingoList[20] = [
   { name: "Collect all holotape games", types: ["star"] },
+  { name: "Collect 10 bobbleheads", types: ["snow"] },
   { name: "Obtain the Buttercup toy from Arlen Glass", types: ["items"] },
   { name: "Become allied with 2 settlements", types: ["rep"] }
 ];
 bingoList[21] = [
   { name: "Kill 3 Mirelurk Queens", types: ["kill"] },
   { name: "Get banished from the Institute", types: ["quest"] },
-  { name: "Collect at least 9 Unique Weapons", types: ["weapon"] },
+  { name: "Collect at least 6 Unique Weapons", types: ["weapon"] },
   { name: "Collect at least 15 Bobbleheads", types: ["snow"] }
 ];
 bingoList[22] = [
@@ -179,7 +179,7 @@ bingoList[22] = [
 ];
 bingoList[23] = [
   { name: "Complete the quest Emergent Behaviour", types: ["challenge"] },
-  { name: "Collect at least 14 Unique Weapons", types: ["weapon"] },
+  { name: "Collect at least 9 Unique Weapons", types: ["weapon"] },
   { name: "Drop Father's lab coat into Shaun's crib at Sanctuary", types: ["meme"] },
   { name: "Collect at least 20 Bobbleheads", types: ["snow"] },
   { name: "Discover at least 20 settlements", types: ["location"] }			
