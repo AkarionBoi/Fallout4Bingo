@@ -29,7 +29,6 @@ bingoList[3] = [
 bingoList[4] = [
   { name: "Become addicted to 2 substances", types: ["items"] },
   { name: "Obtain 5 fusion cores", types: ["items"] },
-  { name: "Raise a SPECIAL stat above 10", types: ["skill"] },
   { name: "Discover at least 15 locations", types: ["location"] },
   { name: "Kill Finn", types: ["kill"] },
   { name: "Recruit Cait", types: ["companion"] },
@@ -77,6 +76,7 @@ bingoList[7] = [
 ];
 bingoList[8] = [
   { name: "Obtain the Home Plate", types: ["location"] },  
+  { name: "Permamently raise a SPECIAL stat above 10", types: ["skill"] }, 
   { name: "Acquire General Chao's Revenge", types: ["weapon"] }, 
   { name: "Obtain Grognak's Axe", types: ["weapon"] },
   { name: "Cook a Grilled RadStag", types: ["crafting"] },
