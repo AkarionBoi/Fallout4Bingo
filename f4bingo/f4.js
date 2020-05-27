@@ -21,17 +21,17 @@ bingoList[3] = [
   { name: "Obtain the Cannibal perk and eat somebody", types: ["perk"] },
   { name: "Construct a Bobblehead Stand", types: ["crafting"] },
   { name: "Do the quest Out in Left Field", types: ["weapon"] },
+  { name: "Do the quest Fire Support", types: ["quest"] },
   { name: "Have at least 1000 caps", types: ["money"] },
   { name: "Kill Travis", types: ["kill"] },
   { name: "Obtain a pompadour wig", types: ["items"] }
 ];
 bingoList[4] = [
-  { name: "Become addicted to 3 substances", types: ["items"] },
+  { name: "Become addicted to 2 substances", types: ["items"] },
   { name: "Obtain 5 fusion cores", types: ["items"] },
   { name: "Raise a SPECIAL stat above 10", types: ["skill"] },
-  { name: "Discover at least 30 locations", types: ["location"] },
-  { name: "Brutally murder Finn", types: ["kill"] },
-  { name: "Score a basket", types: ["rep"] },
+  { name: "Discover at least 15 locations", types: ["location"] },
+  { name: "Kill Finn", types: ["kill"] },
   { name: "Recruit Cait", types: ["companion"] },
   { name: "Kill the Vault Tec Rep", types: ["kill"] },
   { name: "Recruit Macready", types: ["companion"] },
@@ -59,6 +59,7 @@ bingoList[6] = [
   { name: "Wear a different vault jumpsuit", types: ["items"] },
   { name: "Bring a mutated fern flower to Solomon", types: ["quest"] },
   { name: "Collect a Zeta gun", types: ["weapon"] },
+  { name: "Become addicted to 3 substances", types: ["items"] },
   { name: "Cook a Mirelurk Cake", types: ["crafting"] },
   { name: "Kill someone using a Syringer", types: ["kill"] },
   { name: "Pickpocket 5 seperate items", types: ["items"] },
@@ -111,6 +112,7 @@ bingoList[11] = [
 bingoList[12] = [
   { name: "Complete the quest Last Voyage of the U.S.S. Constitution", types: ["quest"] },
   { name: "Complete the quest Diamond City Blues", types: ["quest"] },
+  { name: "Discover at least 30 locations", types: ["location"] },
   { name: "Complete the quest Confidence Man", types: ["quest"] },
   { name: "Obtain the Survivor's Special", types: ["weapons"] }
 ];
@@ -151,6 +153,7 @@ bingoList[17] = [
 bingoList[18] = [
   { name: "Kill 2 Behemoths", types: ["kill"] },
   { name: "Eat Big Mack", types: ["meme"] },
+  { name: "Discover at least 35 locations", types: ["location"] },
   { name: "Kill Wire with a Laser Musket", types: ["kill"] },
   { name: "Collect at least 3 unique weapons", types: ["weapon"] },
   { name: "Return the Pristine Deathclaw egg", types: ["quest"] }
@@ -189,6 +192,7 @@ bingoList[23] = [
 bingoList[24] = [
   { name: "Take the full Vault 81 Tour", types: ["challenge"] },
   { name: "Kill self", types: ["kill"] },
+  { name: "Discover at least 45 locations", types: ["location"] },
   { name: "Relive your memories", types: ["meme"] },
   { name: "Become allied with 3 settlements", types: ["rep"] }
 ];
