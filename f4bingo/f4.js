@@ -161,7 +161,7 @@ bingoList[19] = [
 ];
 bingoList[20] = [
   { name: "Collect all holotape games", types: ["star"] },
-  { name: "Collect 10 bobbleheads", types: ["snow"] },
+  { name: "Collect 7 bobbleheads", types: ["snow"] },
   { name: "Obtain the Buttercup toy from Arlen Glass", types: ["items"] },
   { name: "Become allied with 2 settlements", types: ["rep"] }
 ];
@@ -169,7 +169,7 @@ bingoList[21] = [
   { name: "Kill 3 Mirelurk Queens", types: ["kill"] },
   { name: "Get banished from the Institute", types: ["quest"] },
   { name: "Collect at least 6 Unique Weapons", types: ["weapon"] },
-  { name: "Collect at least 15 Bobbleheads", types: ["snow"] }
+  { name: "Collect at least 10 Bobbleheads", types: ["snow"] }
 ];
 bingoList[22] = [
   { name: "Get Lorenzo's Artifact gun", types: ["weapon"] },
@@ -181,8 +181,8 @@ bingoList[23] = [
   { name: "Complete the quest Emergent Behaviour", types: ["challenge"] },
   { name: "Collect at least 9 Unique Weapons", types: ["weapon"] },
   { name: "Drop Father's lab coat into Shaun's crib at Sanctuary", types: ["meme"] },
-  { name: "Collect at least 20 Bobbleheads", types: ["snow"] },
-  { name: "Discover at least 20 settlements", types: ["location"] }			
+  { name: "Collect at least 13 Bobbleheads", types: ["snow"] },
+  { name: "Discover at least 15 settlements", types: ["location"] }			
 ];
 bingoList[24] = [
   { name: "Take the full Vault 81 Tour", types: ["challenge"] },
